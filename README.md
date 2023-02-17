@@ -1,7 +1,7 @@
 - 👋 Hi, I’m asif
-- 👀 I’m interested in java and ai...
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in web developement
+- 🌱 I’m currently leaqrning advance react concepts
+- 💞️ I’m looking to collaborate on react developement
 - 📫 How to reach me ...
 
 <!---
